@@ -2732,6 +2732,8 @@ def cb_update_coin_options(_status):
 # =============================================================================
 
 if __name__ == "__main__":
-    print("\n  DeFi Risk Analysis — Dash App")
-    print("  Open http://127.0.0.1:8050 in your browser\n")
-    app.run(debug=True, port=8050)
+    app.run_server(
+        host="0.0.0.0",
+        port=int(os.environ.get("PORT", 10000)),
+        debug=False
+    )
