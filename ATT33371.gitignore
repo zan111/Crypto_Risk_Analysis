@@ -1,0 +1,47 @@
+# =============================================================================
+# DeFi Risk Tool — .gitignore
+# =============================================================================
+
+# --- NEVER commit these ---
+config.py          # contains real API keys
+.env               # environment variable file
+*.env
+
+# --- Cache files (regenerated at runtime) ---
+*.pkl
+price_cache.pkl
+sentiment_cache.pkl
+sysrisk_cache.pkl
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+.conda/
+
+# --- IDE ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb
+
+# --- Logs ---
+*.log
