@@ -45,3 +45,9 @@ desktop.ini
 
 # --- Logs ---
 *.log
+
+
+config_privat.py
+__pycache__/
+*.pyc
+*.pkl
