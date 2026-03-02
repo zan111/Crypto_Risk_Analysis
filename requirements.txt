@@ -3,3 +3,5 @@ pandas
 plotly
 gunicorn
 requests
+seaborn
+matplotlib
