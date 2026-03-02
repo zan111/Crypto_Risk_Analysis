@@ -7,6 +7,5 @@ seaborn
 matplotlib
 pycoingecko
 nltk
-scipy.stats
 arch
 praw
