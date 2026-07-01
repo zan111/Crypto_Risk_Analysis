@@ -8,7 +8,6 @@ Copula correlation modelling, stress testing, and regime-switching MC.
 Usage
 -----
     pip install dash plotly
-    conda activate geni2024
     python app.py
     → Open http://127.0.0.1:8050
 """
