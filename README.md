@@ -167,8 +167,51 @@ python app.py
 | `requests` | ≥2.31 | HTTP for DefiLlama |
 
 ---
+## SNIPS 
+App Snips 
 
-## Employer Pitch
+1# User loads data for the coins 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d336a6e3-b126-4757-981d-321f7fb2ca46" />
+
+2# Enter his portfolio holdings 
+
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/11313f18-8e6a-46b0-9a41-5869920f13fe" />
+
+3# Apply the macro indicators and desired simulations
+
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9c5fde12-1a3a-413f-959f-01cb2266fc38" />
+
+4# Results after running 
+
+<img width="1498" height="896" alt="image" src="https://github.com/user-attachments/assets/e67bb923-ead4-4cf0-b69b-e1f31e7d4916" />
+
+
+<img width="1525" height="732" alt="image" src="https://github.com/user-attachments/assets/00e95469-d369-4f76-a780-50d355a530f4" />
+
+
+<img width="1509" height="741" alt="image" src="https://github.com/user-attachments/assets/069ceccb-8772-4bb3-bd95-dc0db272bfbc" />
+
+
+<img width="1546" height="728" alt="image" src="https://github.com/user-attachments/assets/cb3ecc6f-8ab9-4671-9442-03ad3c89b6d8" />
+
+
+<img width="1867" height="892" alt="image" src="https://github.com/user-attachments/assets/b5f3f2de-c49e-446c-b93b-013b791c861f" />
+
+
+<img width="1909" height="898" alt="image" src="https://github.com/user-attachments/assets/08cd8361-a300-4433-8c30-cc8fb129be30" />
+
+
+<img width="1880" height="886" alt="image" src="https://github.com/user-attachments/assets/f78a1bde-9eb0-4105-9d23-9a20923b69d9" />
+
+
+<img width="1863" height="816" alt="image" src="https://github.com/user-attachments/assets/9538a3d9-5d38-4a63-93ce-5b3bd4f87290" />
+
+
+
+
+## Pitch
 
 > I built a **crypto systemic risk engine** from scratch that combines
 > five independent market-stress signals (correlation, PCA, volatility,
@@ -193,7 +236,7 @@ python app.py
 
 ---
 
-*Author: DeFi Risk Team · Built with Python, Dash, Plotly*
+*Author: zan111· Built with Python, Dash, Plotly*
 
 ---
 
