@@ -171,6 +171,8 @@ python app.py
 App Snips 
 
 1# User loads data for the coins 
+
+
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d336a6e3-b126-4757-981d-321f7fb2ca46" />
 
 2# Enter his portfolio holdings 
